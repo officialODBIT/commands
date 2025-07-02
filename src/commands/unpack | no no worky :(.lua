@@ -1,0 +1,8 @@
+--ModuleScript
+--local module = {}
+--local gui = script:WaitForChild("cmds")
+--local gui2 = script:WaitForChild("guipanel")
+--function module.UnpackGUI(plr)
+--	gui:Clone().Parent = plr:WaitForChild("PlayerGui")
+--end
+--return module
